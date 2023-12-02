@@ -1,0 +1,3 @@
+﻿  2_2.cpp
+main.obj : error LNK2005: main уже определен в 2_2.obj
+G:\учеба\c++\lab2\task1\x64\Debug\task1.exe : fatal error LNK1169: обнаружен многократно определенный символ - один или более
